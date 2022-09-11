@@ -3,3 +3,33 @@
 
 2022-09-10 16:48:55 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
 2022-09-10 16:48:55 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-10 23:06:28 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\racim\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-09-10 23:06:29 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-10 23:06:29 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-10 23:49:49 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\racim\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-09-10 23:49:49 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-10 23:49:49 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-10 23:50:43 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\racim\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-09-10 23:50:43 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-10 23:50:43 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-10 23:52:29 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\racim\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-09-10 23:52:29 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-10 23:52:29 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-10 23:57:16 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\racim\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-09-10 23:57:17 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-10 23:57:17 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-10 23:58:26 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\racim\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-09-10 23:58:26 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-10 23:58:26 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
