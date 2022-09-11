@@ -6,6 +6,8 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class Homepage {
+    
+    WebDriver driver = Browser.driver;
 
     @FindBy(id = "ui-id-3")
     private WebElement whatsNew;
