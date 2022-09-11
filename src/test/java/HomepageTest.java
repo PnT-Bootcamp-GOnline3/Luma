@@ -5,7 +5,8 @@ public class HomepageTest extends BaseTest{
     @Test
     public void Test1() {
         startHomePage()
-                .navigateToWomenPage();
+                .navigateToLogin()
+                .loginToAccount();
     }
 
 }
