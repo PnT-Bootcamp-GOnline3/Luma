@@ -1,6 +1,7 @@
 package pages;
 
 import browser.Browser;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -24,7 +25,7 @@ public class Homepage {
     @FindBy(linkText = "Sign In")
     private WebElement signin; // the link to click and go to signin(login)page.
 
-    public WhatsNewPage clickOnWhatsNew() {
+    public WhatsNewPage navigateToWhatsNewPage() {
         whatsNew.click();
         return PageFactory.initElements(Browser.driver, WhatsNewPage.class);
     }
