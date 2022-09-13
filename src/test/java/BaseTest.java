@@ -10,6 +10,7 @@ import java.time.Duration;
 public class BaseTest {
 
     WebDriver driver;
+
     @BeforeMethod
     public void setup() {
         driver = Browser.getDriver();
