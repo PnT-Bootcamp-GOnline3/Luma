@@ -118,3 +118,13 @@
 2022-09-14 01:37:45 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\smarw\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
 2022-09-14 01:39:05 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
 2022-09-14 01:39:05 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\smarw\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 14:28:53 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 14:28:53 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\smarw\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 14:28:56 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\smarw\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+
+2022-09-14 14:31:15 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 14:31:16 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\smarw\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 14:31:18 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\smarw\AppData\Local\JetBrains\IdeaIC2021.3\temp-testng-customsuite.xml
+

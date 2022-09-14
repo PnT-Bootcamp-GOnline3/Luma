@@ -6,13 +6,15 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 public class WomenPage {
 
-    static WebDriver driver;
+    private WebDriver driver;
     private static final String URL = "https://magento.softwaretestingboard.com/";
 
-    public static void main(String[] args) throws InterruptedException {
+    public WomenPage(){
         WebDriverManager.chromedriver().setup();
-        driver = new ChromeDriver();
+        this.driver = new ChromeDriver();
+    }
 
+    public void executeAction() throws InterruptedException {
         driver.get(URL);
         Thread.sleep(2000);
         driver.findElement(By.xpath("//*[@id='ui-id-3']/span")).click();
