@@ -40,15 +40,16 @@ public class AddToCartPage {
             actions.moveToElement(sweatshirtGreen.get(1));
             actions.click().build().perform();
 
-            actions.moveToElement(addCarts.get(1));
-            actions.click().build().perform();
-
             //added the sleep time to wait between add product
             try {
                 TimeUnit.SECONDS.sleep(1);
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
+
+            actions.moveToElement(addCarts.get(1));
+            actions.click().build().perform();
+
         }
 
         //we are going to go over another shirt

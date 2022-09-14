@@ -289,3 +289,23 @@
 2022-09-13 17:58:42 [main] INFO  Downloader:188 - Extracting driver from compressed file chromedriver_win32.zip
 2022-09-13 17:58:42 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\smarw\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
 
+2022-09-14 11:06:40 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\racim\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-09-14 11:06:42 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 11:06:42 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 11:11:09 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\racim\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-09-14 11:11:10 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 11:11:10 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 11:15:24 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\racim\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-09-14 11:15:25 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 11:15:25 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
+2022-09-14 11:19:44 [main] INFO  Utils:112 - [TestNG] Running:
+  C:\Users\racim\AppData\Local\JetBrains\IdeaIC2022.1\temp-testng-customsuite.xml
+
+2022-09-14 11:19:45 [main] INFO  WebDriverManager:1197 - Using chromedriver 105.0.5195.52 (resolved driver for Chrome 105)
+2022-09-14 11:19:45 [main] INFO  WebDriverManager:1252 - Exporting webdriver.chrome.driver as C:\Users\racim\.cache\selenium\chromedriver\win32\105.0.5195.52\chromedriver.exe
