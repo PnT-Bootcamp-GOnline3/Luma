@@ -25,7 +25,7 @@ public class CreateAnAccountPage {
     @FindBy(css = "button[class='action submit primary']")
     private WebElement submitButton;
 
-    public AccountPage addAnUser(String uName, String lName, String e_mail, String pssWord){
+    public MyAccountPage addAnUser(String uName, String lName, String e_mail, String pssWord){
         firstname.sendKeys(uName);
         lastname.sendKeys(lName);
         email.sendKeys(e_mail);
@@ -34,7 +34,7 @@ public class CreateAnAccountPage {
 
         submitButton.click();
 
-        return PageFactory.initElements(Browser.driver, AccountPage.class);
+        return PageFactory.initElements(Browser.driver, MyAccountPage.class);
     }
 
 }
