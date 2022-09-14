@@ -9,5 +9,8 @@
         <module name="POM-Project" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Luma" target="10" />
+    </bytecodeTargetLevel>
   </component>
 </project>
