@@ -1,11 +1,14 @@
 package pages;
 
 import browser.Browser;
+import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class Homepage {
+    
+    WebDriver driver = Browser.driver;
 
     @FindBy(id = "ui-id-3")
     private WebElement whatsNew;
