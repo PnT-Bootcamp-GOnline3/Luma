@@ -25,6 +25,18 @@ public class Homepage {
     @FindBy(linkText = "Sign In")
     private WebElement signin; // the link to click and go to signin(login)page.
 
+    @FindBy(id = "newsletter") private WebElement emailField;
+
+    @FindBy(xpath = "//button[@title='Subscribe']") private WebElement subscribeButton;
+
+    // Subscribe to newsletter //
+    public Homepage subscribeToNewsletter(String email) {
+        emailField.sendKeys(email);
+        subscribeButton.click();
+        return this;
+    }
+
+    // This method will navigate to the What's New page
     public WhatsNewPage navigateToWhatsNewPage() {
         whatsNew.click();
         return PageFactory.initElements(Browser.driver, WhatsNewPage.class);
