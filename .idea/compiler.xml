@@ -11,6 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Luma" target="10" />
+      <module name="POM-Project" target="10" />
     </bytecodeTargetLevel>
   </component>
 </project>

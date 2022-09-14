@@ -12,11 +12,11 @@ public class LoginPage {
     @FindBy (id = "pass") private WebElement password;
     @FindBy (id = "send2") private WebElement signinButton;
 
-    public AccountPage loginToAccount(){ // Login to the website using information in Info
+    public MyAccountPage loginToAccount(){ // Login to the website using information in Info
         eMail.sendKeys(Info.EMAIL);
         password.sendKeys(Info.PASSWORD);
         signinButton.click();
-        return PageFactory.initElements(Browser.driver, AccountPage.class);
+        return PageFactory.initElements(Browser.driver, MyAccountPage.class);
     }
 
 }
